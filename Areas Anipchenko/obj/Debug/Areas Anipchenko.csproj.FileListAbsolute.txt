@@ -1,0 +1,22 @@
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Areas Anipchenko.dll.config
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Areas Anipchenko.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Areas Anipchenko.pdb
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Helpers.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Mvc.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Razor.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.Razor.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Razor.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Webpages.Razor.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Helpers.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\bin\System.Web.Mvc.xml
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\obj\Debug\Areas Anipchenko.csprojResolveAssemblyReference.cache
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\obj\Debug\Areas Anipchenko.csproj.CoreCompileInputs.cache
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\obj\Debug\Areas Anipchenko.dll
+C:\Users\student.ITSTEP1\source\repos\Areas Anipchenko\Areas Anipchenko\obj\Debug\Areas Anipchenko.pdb
